@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    background-color: blue;
+}
+#colors{
+    color: blueviolet;
+}
+#world{
+    color: black;
+    background-color: yellow;
+}
+#unstyled{
+    color: black;
+    background-color: aquamarine;
+}
